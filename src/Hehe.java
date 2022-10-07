@@ -1,6 +1,6 @@
 
 public class Hehe {
 
-	int trois = 3;
+	int trois = 3; // commentaire inutile
 	
 }
